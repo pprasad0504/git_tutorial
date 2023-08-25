@@ -1,0 +1,1 @@
+print('Dolly is a fool')
